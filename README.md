@@ -1,4 +1,8 @@
-## :rocket: Drag-n-Drop
+<h3 align="center">
+  Projeto Drag'n'Drop
+</h3>
+
+## :rocket: Sobre a página
 
 Um template de evento de drag'n'drop.
 

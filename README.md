@@ -8,3 +8,5 @@ Um template de evento de drag'n'drop.
 * _CSS_
 
 ### :bulb: Tela da aplicação
+
+![image](https://github.com/JonanthaW/Drag-n-Drop/blob/main/assets/example1.jpg);
